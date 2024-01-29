@@ -8,7 +8,7 @@ Com o Professor **Leonardo Moura Leitao** (Arquiteto de Software)
 ### Curso: DIO
 Bootcamp Decola Tech 2a edição.
 Atrazes desse treinamento consegui meu estágio na Avanade Brazil.
-  Aprendendo Lógica de programação, Estrutura de dados e algoritmos, Git e GitHub, Inter Frontend Developer, C#, .NET, SQL Server
-  Certificado de conclusão:
+  Aprendendo Lógica de programação, Estrutura de dados e algoritmos, Git e GitHub, Inter Frontend Developer, C#, .NET, SQL Server <br>
+  **Certificado de conclusão:**
   ![certificado](https://hermes.digitalinnovation.one/certificates/cover/F76D0AC0.jpg)
 
